@@ -85,13 +85,16 @@ a {
   font-size: 24px;
 }
 
+/* グリッドレイアウト */
 .box-02 {
   display: grid;
   display: -ms-grid;
   -ms-grid-columns: 270px 1fr;
   -ms-grid-rows: 132px auto auto; 
   grid-template-columns: 270px 1fr;
-  grid-template-rows: 132px 250px auto;  
+  grid-template-rows: 132px 250px auto;
+  column-gap: 35px;
+  row-gap: 35px;
   gap: 35px;
   margin-bottom: 30px;
 }
