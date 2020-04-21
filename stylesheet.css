@@ -129,6 +129,7 @@ a {
 
 /* 本文 */
 .flex p {
+  color: #00505c;
   padding: 0 30px 10px;
   overflow-wrap: break-word !important;
   font-family: Open Sans,sans-serif;
