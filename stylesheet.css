@@ -95,6 +95,7 @@ a {
   grid-template-rows: 132px 250px auto;
   grid-column-gap: 35px;
   grid-row-gap: 35px;
+  grid-gap: 35px;
   gap: 35px;
   margin-bottom: 30px;
 }
