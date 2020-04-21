@@ -89,7 +89,7 @@ a {
   display: grid;
   display: -ms-grid;
   -ms-grid-columns: 270px 1fr;
-  -ms-grid-rows: 132px 250px auto; 
+  -ms-grid-rows: 132px auto auto; 
   grid-template-columns: 270px 1fr;
   grid-template-rows: 132px 250px auto;  
   gap: 35px;
