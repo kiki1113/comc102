@@ -85,6 +85,9 @@ a {
 
 .box-02 {
   display: grid;
+  display: -ms-grid;
+  -ms-grid-columns: 270px 1fr;
+  -ms-grid-rows: 132px 250px 250px; 
   grid-template-columns: 270px 1fr;
   grid-template-rows: 132px 250px 250px;  
   gap: 35px;
@@ -167,8 +170,11 @@ footer {
 
   .box-02 {
     display: grid;
+    display: -ms-grid;
+    -ms-grid-columns: 1fr;
+    -ms-grid-rows: 132px 1000px; 
     grid-template-columns: 1fr;
-    grid-template-rows: 132px 1000px;  
+    grid-template-rows: 132px 650px;  
     gap: 20px;
     margin-bottom: 30px;
   }
