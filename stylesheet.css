@@ -68,7 +68,7 @@ a {
 
 .box-01 {
   -ms-grid-column: 3; 
-  -ms-grid-row: 2;
+  -ms-grid-row: 1;
   grid-row: 1 / 2;
   grid-column: 2 / 3;
   white-space: nowrap;
