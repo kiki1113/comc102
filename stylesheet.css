@@ -187,6 +187,10 @@ footer {
   aside {
     display: none;
   }
+   
+  .box-01 {
+     display: none;
+  } 
 
   .box-02 {
     display: grid;
