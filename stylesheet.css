@@ -143,11 +143,13 @@ aside {
 
 .admin {
   margin-top: 20px;
+  -ms-grid-colums: 1;
   grid-row: 1 / 2;
   grid-column: 1 / 2;
 }
 
 .navi {
+  -ms-grid-colums: 1;
   grid-row: 2 / 4;
   grid-column: 1 / 2;
 }
