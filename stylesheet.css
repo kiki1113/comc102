@@ -115,7 +115,7 @@ a {
 
 .flex p {
   padding: 0 30px 10px;
-  overflow-wrap: break-word;
+  overflow-wrap: break-word !important;
 }
 
 .flex a {
