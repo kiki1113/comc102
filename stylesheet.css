@@ -175,6 +175,10 @@ footer {
 }
 
 @media (min-width: 0px) and (max-width: 900px) {
+  .name {
+  padding-right: 0;
+  }
+  
   aside {
     display: none;
   }
