@@ -24,6 +24,7 @@ a {
   color: white;
   text-align: right;
   font-family: "Open Sans", sans-serif;
+  font-weight: 300;
   line-height: 30px;
   margin: 0;
 }
@@ -37,7 +38,7 @@ a {
 }
 
 .header-bottom p {
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
   font-size: 32px;
   font-weight: 300;
   color: white;
@@ -76,6 +77,7 @@ a {
 .box-01 p{
   font-family: Roboto, sans-serif;
   font-size: 28px;
+  font-weight: 300;
   color: #00505C;
   line-height: 40px;
   font-weight: 300;
@@ -146,6 +148,7 @@ aside {
   width: 270px;
   font-family: Roboto, sans-serif;
   font-size: 17px;
+  font-weight: 300;
   color: #3a454b;
 }
 
