@@ -116,11 +116,12 @@ a {
 .flex p {
   padding: 0 30px 10px;
   overflow-wrap: break-word !important;
+  font-family: Calibri;
 }
 
 .flex a {
   color: blue;
-
+  font-family: Calibri;
 }
 
 aside {
