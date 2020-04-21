@@ -88,7 +88,7 @@ a {
 .box-02 {
   display: grid;
   display: -ms-grid;
-  -ms-grid-columns: 270px 1fr;
+  -ms-grid-columns: 270px 700px;
   -ms-grid-rows: 132px 250px auto; 
   grid-template-columns: 270px 1fr;
   grid-template-rows: 132px 250px auto;  
