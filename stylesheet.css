@@ -67,8 +67,8 @@ a {
 }
 
 .box-01 {
-  -ms-grid-column: 2; 
-  -ms-grid-row: 1;
+  -ms-grid-column: 3; 
+  -ms-grid-row: 2;
   grid-row: 1 / 2;
   grid-column: 2 / 3;
   white-space: nowrap;
@@ -91,8 +91,8 @@ a {
 .box-02 {
   display: grid;
   display: -ms-grid;
-  -ms-grid-columns: 270px 1fr;
-  -ms-grid-rows: 132px auto auto; 
+  -ms-grid-columns: 270px 35px 1fr;
+  -ms-grid-rows: 132px 35px auto; 
   grid-template-columns: 270px 1fr;
   grid-template-rows: 132px 250px auto;
   grid-column-gap: 35px;
@@ -106,8 +106,8 @@ a {
   background-color: white;
   margin: 0;
   padding: 3px;
-  -ms-grid-column: 2; 
-  -ms-grid-row: 2;
+  -ms-grid-column: 3; 
+  -ms-grid-row: 3;
   grid-row: 2 / 4;
   grid-column: 2 / 3;
 }
@@ -163,7 +163,7 @@ aside {
 
 .navi {
   -ms-grid-column: 1;
-  -ms-grid-row: 2;
+  -ms-grid-row: 3;
   grid-row: 2 / 4;
   grid-column: 1 / 2;
 }
