@@ -23,7 +23,7 @@ a {
 .header-top p {
   color: white;
   text-align: right;
-  font-family: "Open Sans", sans-serif;
+  font-family: Open Sans, sans-serif;
   font-weight: 300;
   line-height: 30px;
   margin: 0;
@@ -38,7 +38,7 @@ a {
 }
 
 .header-bottom p {
-  font-family: "Roboto Condensed", sans-serif;
+  font-family: Roboto Condensed,sans-serif;
   font-size: 32px;
   font-weight: 300;
   color: white;
@@ -55,7 +55,7 @@ a {
   padding: 18.5px 2em 17px 2em;
   font-size: 14px;
   color: #222222;
-  font-family: "Open Sans", sans-serif;
+  font-family: Open Sans, sans-serif;
 }
 
 .nav a:hover {
@@ -131,14 +131,14 @@ a {
 .flex p {
   padding: 0 30px 10px;
   overflow-wrap: break-word !important;
-  font-family: "Open Sans";
+  font-family: Open Sans,sans-serif;
   font-size: 14px;
 }
 
 /* 本文リンク */
 .flex a {
   color: blue;
-  font-family: "Open Sans";
+  font-family: Open Sans,sans-serif;
   font-size: 14px;
 }
 
