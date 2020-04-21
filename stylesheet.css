@@ -117,11 +117,13 @@ a {
   padding: 0 30px 10px;
   overflow-wrap: break-word !important;
   font-family: Calibri;
+  font-size: 1rem;
 }
 
 .flex a {
   color: blue;
   font-family: Calibri;
+  font-size: 1rem;
 }
 
 aside {
