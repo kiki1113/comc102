@@ -129,14 +129,14 @@ a {
 .flex p {
   padding: 0 30px 10px;
   overflow-wrap: break-word !important;
-  font-family: Calibri;
+  font-family: "Open Sans", Calibri;
   font-size: 14px;
 }
 
 /* 本文リンク */
 .flex a {
   color: blue;
-  font-family: Calibri;
+  font-family: "Open Sans", Calibri;
   font-size: 14px;
 }
 
